@@ -1,5 +1,6 @@
 
-#------------------ Sine wave propagation through interface ------------------
+#------------------ Sine wave propagation through an interface with ABC at left & right boundaries ------------------
+#------------------ Reflection & Transmission at the interface ------------------------------------------------------
 
 import numpy as np
 import matplotlib.pyplot as plt
