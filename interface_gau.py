@@ -1,6 +1,6 @@
 
-#------------------ Pulse propagation through interface ----------------------
-#------------------ Observe the reflection and transmission at interface
+#------------------ Gaussian Pulse propagation through an interface ----------------------
+#------------------ Reflection and transmission at the interface
 
 import numpy as np
 import matplotlib.pyplot as plt
