@@ -1,7 +1,8 @@
 
-#------------------ Two 50 Ohm Microstrip transmission lines with open termination (ZL = inf) ------------------------
-#------------------ Cylindrical dielectric region in between the 2 striplines and feed on one strip ------------------
-#------------------ To plot standing waves (SW) on the 2 strip lines and observe the coupling ------------------------
+#--------------- Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf) ------
+#--------------- Cylindrical dielectric region in between the 2 striplines and feed on one strip ---------------------
+#--------------- To plot standing waves (SW) on the 2 strip lines and observe the coupling ---------------------------
+
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
