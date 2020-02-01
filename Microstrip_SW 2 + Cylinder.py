@@ -1,7 +1,7 @@
 
 #------------------ Two 50 Ohm Microstrip transmission lines with open termination (ZL = inf) ------------------------
-#------------------ Cylindrical dielectric region in between the 2 striplines and feed on both the strips ------------
-#------------------ To plot standing waves (SW) on the 2 strip lines -------------------------------------------------
+#------------------ Cylindrical dielectric region in between the 2 striplines and feed on one strip ------------------
+#------------------ To plot standing waves (SW) on the 2 strip lines and observe the coupling ------------------------
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
@@ -216,8 +216,7 @@ while(int(round(N_steps))>0) :
        
         # ----- Sinusoidal signal of 10 GHz---------
         pulse = np.sin(2*np.pi*10e9*time)
-        ey[strip_x11-1:strip_x12, sub_y1-1:sub_y2, feed_z11-1] = pulse/dy   # Both feed Points Active
-        ey[strip_x21-1:strip_x22, sub_y1-1:sub_y2, feed_z21-1] = pulse/dy
+        ey[strip_x11-1:strip_x12, sub_y1-1:sub_y2, feed_z11-1] = pulse/dy   # Feed on strip 1
          
         #------------------------ compute H ------------------------- 
         for j in range(Ny-1):
