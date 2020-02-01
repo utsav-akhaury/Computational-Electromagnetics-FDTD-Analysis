@@ -1,6 +1,5 @@
 
-#------------------ Gaussian pulse propagation in a homogeneous medium terminated
-#------------------ with absorbing boundary condition (ABC)----------------------
+#------------------ Gaussian pulse propagation in a homogeneous medium terminated with Absorbing Boundary Condition (ABC)
 
 import numpy as np
 import matplotlib.pyplot as plt
