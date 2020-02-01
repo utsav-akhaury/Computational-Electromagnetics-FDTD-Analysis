@@ -1,6 +1,7 @@
 
-#------------------ 50 Ohm Microstrip transmission line with an open termination (ZL=inf)----------------------
-#------------------ To plot standing waves (SW) on the line -----------------
+#------------------ 50 Ohm Microstrip transmission line with an open termination (ZL = inf) ----------------------
+#------------------ To plot standing waves (SW) on the line ------------------------------------------------------
+#------------------ ABC at left & rigth boundaries ---------------------------------------------------------------
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
