@@ -1,7 +1,6 @@
 
 #------------------ 50 Ohm Microstrip transmission lines with an open termination (ZL=inf)----------------------
-#------------------ To plot the standing wave (SW) on 2 strip lines -----------------
-#-------------------Run for N_steps=1000 for initial verification of Python code. Later try for 20000 steps for final verification.
+#------------------ To plot standing waves (SW) on the 2 strip lines -----------------
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
