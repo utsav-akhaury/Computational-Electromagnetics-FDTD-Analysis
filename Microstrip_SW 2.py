@@ -1,6 +1,7 @@
 
-#------------------ 50 Ohm Microstrip transmission lines with an open termination (ZL=inf)----------------------
-#------------------ To plot standing waves (SW) on the 2 strip lines -----------------
+#--------------- Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf) ------
+#--------------- To plot standing waves (SW) on the the 2 strips -----------------------------------------------------
+#--------------- ABC at left & right boundaries ----------------------------------------------------------------------
 
 import numpy as np
 from mpl_toolkits.mplot3d import Axes3D
