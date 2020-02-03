@@ -8,9 +8,9 @@ A brief description of the models implemented -
 
 2) ***homog_gau_abc.py***  -  Gaussian pulse propagation in a homogeneous medium terminated with Absorbing Boundary Condition (ABC)
 
-3) ***interface_gau.py***  -  Gaussian Pulse propagation through an interface with ABC at left & right boundaries
+3) ***interface_gau.py***  -  Gaussian Pulse propagation through an interface with ABC at extreme boundaries
 
-4) ***interface_sin.py***  -  Sine wave propagation through an interface with ABC at left & right boundaries
+4) ***interface_sin.py***  -  Sine wave propagation through an interface with ABC at extreme boundaries
 
 5) ***Microstrip_SW.py***  -  50 Ohm Microstrip transmission line with an open termination (ZL = inf) and ABC
 
