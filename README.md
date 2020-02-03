@@ -20,7 +20,7 @@ Sine wave propagation through an interface with ABC at extreme boundaries
 50 Ohm Microstrip transmission line with an open termination (ZL = inf) and ABC
 
 6) ***Microstrip_SW 2.py***  
-Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination and ABC
+Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf) and ABC
 
 7) ***Microstrip_SW 2 dielectric.py***  
-Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination, a cylindrical dielectric region in between the striplines and feed on one strip
+Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf), a cylindrical dielectric region in between the striplines and feed on one strip
