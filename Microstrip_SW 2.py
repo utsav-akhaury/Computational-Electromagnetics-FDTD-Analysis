@@ -1,7 +1,7 @@
 
 #--------------- Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf) ------
 #--------------- To plot standing waves (SW) on the the 2 strips -----------------------------------------------------
-#--------------- ABC at left & right boundaries ----------------------------------------------------------------------
+#--------------- ABC at extreme boundaries ----------------------------------------------------------------------
 
 
 import numpy as np
