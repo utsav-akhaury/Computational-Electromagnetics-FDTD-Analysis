@@ -16,7 +16,7 @@ Gaussian Pulse propagation through an interface with ABC at extreme boundaries
 4) ***interface_sin.py***  
 Sine wave propagation through an interface with ABC at extreme boundaries
 
-5) ***Microstrip_SW.py*** 
+5) ***Microstrip_SW.py***  
 50 Ohm Microstrip transmission line with an open termination (ZL = inf) and ABC
 
 6) ***Microstrip_SW 2.py***  
