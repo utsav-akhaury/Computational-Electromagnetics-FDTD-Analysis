@@ -2,7 +2,15 @@
 
 Python codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
 
-A brief description of the models implemented -
+Requires the following libraries/toolkits - 
+
+1) **NumPy** &nbsp;- &nbsp;for mesh discretization
+
+2) **matplotlib** &nbsp;- &nbsp;for general plots
+
+3) **mpl_toolkits.mplot3d** &nbsp;- &nbsp;for surface plots <br /><br />
+
+## Description of the Models Implemented <br />
 
 1) ***homog_gau.py***  
 Gaussian pulse propagation in a homogeneous medium
