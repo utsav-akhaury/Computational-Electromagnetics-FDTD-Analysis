@@ -63,7 +63,7 @@ strip_x11 = int(round(0.25*(Nx-strip_w/dx)))
 Nw = int(round(strip_w/dx))
 
 strip_x12 = strip_x11 + Nw
-strip_y1 = sub_y1 + 1                            # strip is on the top surface of the substrate
+strip_y1 = sub_y2 + 1                            # strip is on the top surface of the substrate
 strip_z11 = sub_z1 + 5                           # strip is starting 5 cells into the substrate
 strip_z12 = strip_z11 + int(round(strip_l/dz))
 
@@ -71,19 +71,19 @@ strip_z12 = strip_z11 + int(round(strip_l/dz))
 strip_x21 = int(round(0.75*(Nx-strip_w/dx)))
 
 strip_x22 = strip_x21 + Nw
-strip_y2 = sub_y1 + 1                            # strip is on the top surface of the substrate
+strip_y2 = sub_y2 + 1                            # strip is on the top surface of the substrate
 strip_z21 = sub_z1 + 5                           # strip is starting 5 cells into the substrate
 strip_z22 = strip_z21 + int(round(strip_l/dz))
 
 #-------- Feed point of the strip 1
 feed_x1 = strip_x11 + int(round(0.5*strip_w/dx))       # center of strip
-feed_y1 = sub_y1
+feed_y1 = sub_y2
 feed_z11 = strip_z11                              # feed starts at the strip edge
 feed_z12 = strip_z12
 
 #-------- Feed point of the strip 2
 feed_x2 = strip_x21 + int(round(0.5*strip_w/dx))       # center of strip
-feed_y2 = sub_y1
+feed_y2 = sub_y2
 feed_z21 = strip_z21                              # feed starts at the strip edge
 feed_z22 = strip_z22
 
