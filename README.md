@@ -12,19 +12,19 @@ Requires the following libraries/toolkits for the Python codes-
 
 ## Description of the Models Implemented <br />
 
-1) ***homog_gau.py***  
+1) [homog_gau.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/homog_gau.py)
 Gaussian pulse propagation in a homogeneous medium
 
-2) ***homog_gau_abc.py***   
+2) [homog_gau_abc.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/homog_gau_abc.py)
 Gaussian pulse propagation in a homogeneous medium terminated with Absorbing Boundary Condition (ABC)
 
-3) ***interface_gau.py***   
+3) [interface_gau.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/interface_gau.py)   
 Gaussian Pulse propagation through an interface with ABC at extreme boundaries
 
-4) ***interface_sin.py***  
+4) [interface_sin.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/interface_sin.py)  
 Sine wave propagation through an interface with ABC at extreme boundaries
 
-5) ***Microstrip_SW.py***  
+5) [Microstrip_SW.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Microstrip_SW.py)  
 50 Ω Microstrip transmission line with an open termination (ZL = inf) and ABC
 
 6) ***Microstrip_SW 2.py***  
