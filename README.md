@@ -43,7 +43,7 @@ Two-port transmission line with gaussian feed at transmitting end. The correspon
 Two-port 50 Ω transmission line with gaussian signal modulated by a sinusoidal pulse at transmitting end
 
 11) **[Two_port_Luebbers_Tapered_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Source-Tapering/Two_port_Luebbers_Tapered_sin.m)**     
-Two-port 50 Ω transmission line with Luebber's source and Source Tapering (staircased FDTD mesh transition from ground plane to stripline) for a sinusoidal signal
+Two-port 50 Ω transmission line with Luebber's source (lumped source with internal resistance) and Source Tapering (staircased FDTD mesh transition from ground plane to stripline) for a sinusoidal signal
 
 12) **[Two_port_Luebbers_Tapered_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Source-Tapering/Two_port_Luebbers_Tapered_gaussian.m)**     
 Two-port 50 Ω transmission line with Luebber's source and Source Tapering for a gaussian signal
