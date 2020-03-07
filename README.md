@@ -2,7 +2,7 @@
 
 Codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
 
-Requires the following libraries/toolkits for the Python codes- 
+Requires the following libraries/toolkits for the Python codes - 
 
 1) **NumPy** &nbsp;- &nbsp;for mesh discretization
 
