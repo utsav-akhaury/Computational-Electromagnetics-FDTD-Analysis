@@ -1,8 +1,8 @@
 # Computational Electromagnetics (FDTD Analysis)
 
-Python codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
+Codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
 
-Requires the following libraries/toolkits - 
+Requires the following libraries/toolkits for the Python codes- 
 
 1) **NumPy** &nbsp;- &nbsp;for mesh discretization
 
@@ -25,10 +25,28 @@ Gaussian Pulse propagation through an interface with ABC at extreme boundaries
 Sine wave propagation through an interface with ABC at extreme boundaries
 
 5) ***Microstrip_SW.py***  
-50 Ohm Microstrip transmission line with an open termination (ZL = inf) and ABC
+50 Ω Microstrip transmission line with an open termination (ZL = inf) and ABC
 
 6) ***Microstrip_SW 2.py***  
-Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf) and ABC
+Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = inf) and ABC
 
 7) ***Microstrip_SW 2 dielectric.py***  
-Two symmetrically spaced 50 Ohm Microstrip transmission lines with open termination (ZL = inf), a cylindrical dielectric region in between the striplines and feed on one strip
+Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = inf), a cylindrical dielectric region in between the striplines and feed on one strip
+
+8) ***Two_port_sin.m***  
+Two-port transmission line with sinusoidal feed at transmitting end. The corresponing signal at the receiving end is analysed in time & frequency domain
+
+9) ***Two_port_gaussian.m***  
+Two-port transmission line with gaussian feed at transmitting end. The corresponing signal at the receiving end is analysed in time & frequency domain
+
+10) ***Two_port_modulated_gaussian.m***  
+Two-port 50 Ω transmission line with gaussian signal modulated by a sinusoidal pulse at transmitting end
+
+11) ***Two_port_Luebbers_Tapered_sin.m***  
+Two-port 50 Ω transmission line with Luebber's source and Source Tapering (staircased FDTD mesh transition from ground plane to stripline) for a sinusoidal signal
+
+12) ***Two_port_Luebbers_Tapered_gaussian.m***  
+Two-port 50 Ω transmission line with Luebber's source and Source Tapering for a gaussian signal
+
+13) ***Two_port_Luebbers_Tapered_mod_gaussian.m***  
+Two-port 50 Ω transmission line with Luebber's source and Source Tapering for a gaussian signal modulated by a sinusoidal pulse
