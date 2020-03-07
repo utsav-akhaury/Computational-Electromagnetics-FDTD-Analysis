@@ -25,13 +25,13 @@ Gaussian Pulse propagation through an interface with ABC at extreme boundaries
 Sine wave propagation through an interface with ABC at extreme boundaries
 
 5) **[Microstrip_SW.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Microstrip_SW.py)**  
-50 Ω Microstrip transmission line with an open termination (ZL = inf) and ABC
+50 Ω Microstrip transmission line with an open termination (ZL = ∞) and ABC
 
 6) **[Microstrip_SW-2.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Microstrip_SW-2.py)**  
-Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = inf) and ABC
+Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = ∞) and ABC
 
 7) **[Microstrip_SW-2_dielectric.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Microstrip_SW-2_dielectric.py)**   
-Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = inf), a cylindrical dielectric region in between the striplines and feed on one strip
+Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = ∞), a cylindrical dielectric region in between the striplines and feed on one strip
 
 8) **[Two_port_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Two_port_sin.m)**   
 Two-port transmission line with sinusoidal feed at transmitting end. The corresponing signal at the receiving end is analysed in time & frequency domain
