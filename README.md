@@ -33,20 +33,20 @@ Two symmetrically spaced 50 Ω Microstrip transmission lines with open terminati
 7) **[Microstrip_SW-2_dielectric.py](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Microstrip_SW-2_dielectric.py)**   
 Two symmetrically spaced 50 Ω Microstrip transmission lines with open termination (ZL = inf), a cylindrical dielectric region in between the striplines and feed on one strip
 
-8) **[Two_port_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_sin.m)**   
+8) **[Two_port_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Two_port_sin.m)**   
 Two-port transmission line with sinusoidal feed at transmitting end. The corresponing signal at the receiving end is analysed in time & frequency domain
 
-9) **[Two_port_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_gaussian.m)**  
+9) **[Two_port_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Two_port_gaussian.m)**  
 Two-port transmission line with gaussian feed at transmitting end. The corresponing signal at the receiving end is analysed in time & frequency domain
 
-10) **[Two_port_modulated_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_modulated_gaussian.m)**   
+10) **[Two_port_modulated_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Two_port_modulated_gaussian.m)**   
 Two-port 50 Ω transmission line with gaussian signal modulated by a sinusoidal pulse at transmitting end
 
-11) **[Two_port_Luebbers_Tapered_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_Luebbers_Tapered_sin.m)**     
+11) **[Two_port_Luebbers_Tapered_sin.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Source-Tapering/Two_port_Luebbers_Tapered_sin.m)**     
 Two-port 50 Ω transmission line with Luebber's source and Source Tapering (staircased FDTD mesh transition from ground plane to stripline) for a sinusoidal signal
 
-12) **[Two_port_Luebbers_Tapered_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_Luebbers_Tapered_gaussian.m)**     
+12) **[Two_port_Luebbers_Tapered_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Source-Tapering/Two_port_Luebbers_Tapered_gaussian.m)**     
 Two-port 50 Ω transmission line with Luebber's source and Source Tapering for a gaussian signal
 
-13) **[Two_port_Luebbers_Tapered_mod_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two_port_Luebbers_Tapered_mod_gaussian.m)**     
+13) **[Two_port_Luebbers_Tapered_mod_gaussian.m](https://github.com/utsav-akhaury/Computational-Electromagnetics-FDTD-Analysis/blob/master/Two-Port-Transmission-Lines/Source-Tapering/Two_port_Luebbers_Tapered_mod_gaussian.m)**     
 Two-port 50 Ω transmission line with Luebber's source and Source Tapering for a gaussian signal modulated by a sinusoidal pulse
