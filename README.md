@@ -1,4 +1,5 @@
-# Computational Electromagnetics (FDTD Analysis)
+# Computational Electromagnetics (FDTD Analysis)      
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) 
 
 Codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
 
