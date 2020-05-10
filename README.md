@@ -1,15 +1,15 @@
 # Computational Electromagnetics (FDTD Analysis)      
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE) 
 
-Codes for implementing the Finite Difference Time Domain (FDTD) method to solve the Maxwell's equations for modelling different electromagnetic structures.
+Python 3 & MATLAB codes for implementing the Finite Difference Time Domain (FDTD) algorithm to solve the Maxwell's equations for modelling different electromagnetic structures.
 
-Requires the following libraries/toolkits for the Python codes - 
+The Python codes have the following dependencies - 
 
-1) **NumPy** &nbsp;- &nbsp;for mesh discretization
+1) **[NumPy](https://numpy.org/)** &nbsp;- &nbsp;for mesh discretization
 
-2) **matplotlib** &nbsp;- &nbsp;for general plots
+2) **[matplotlib](https://matplotlib.org/)** &nbsp;- &nbsp;for general plots
 
-3) **mpl_toolkits.mplot3d** &nbsp;- &nbsp;for surface plots <br /><br />
+3) **[mpl_toolkits.mplot3d](https://matplotlib.org/mpl_toolkits/mplot3d/)** &nbsp;- &nbsp;for surface plots <br /><br />
 
 ## Description of the Models Implemented <br />
 
