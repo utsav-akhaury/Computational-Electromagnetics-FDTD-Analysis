@@ -1,5 +1,5 @@
 # Computational Electromagnetics (FDTD Analysis)      
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](LICENSE) 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 
 Python 3 & MATLAB codes for implementing the Finite Difference Time Domain (FDTD) algorithm to solve the Maxwell's equations for modelling different electromagnetic structures.
 
